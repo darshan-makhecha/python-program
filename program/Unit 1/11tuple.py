@@ -1,3 +1,4 @@
+
 # Creating a Tuple 
 Tuple1 = ()  
 print("Initial empty Tuple: ", Tuple1)  

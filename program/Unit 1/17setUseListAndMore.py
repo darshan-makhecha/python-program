@@ -1,4 +1,4 @@
-# Set with the use of a List 
+x# Set with the use of a List 
 set1 = set(["Python", "For", "King"]) 
 print("\nSet with the use of List: ") 
 print(set1) 
