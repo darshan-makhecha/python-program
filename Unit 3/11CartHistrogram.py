@@ -15,3 +15,4 @@ plt.title('My scatter plot!')
 plt.legend()   
 # function to show the plot 
 plt.show()
+
