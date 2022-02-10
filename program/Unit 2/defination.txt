@@ -1,0 +1,5 @@
+android ->
+WAP to get number from user and insert following details into dictinary
+	details :- rollno , name , city , contact , 
+ dynamically store dictinary
+
